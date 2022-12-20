@@ -13,7 +13,7 @@ public class ExcelMain {
         String b=ob.readData(0,1);
         System.out.println("Value of b is "+b); 
 		
-		
+        System.out.println("Value sample"); 
 
 	}
 
